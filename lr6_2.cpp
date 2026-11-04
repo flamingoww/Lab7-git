@@ -32,6 +32,9 @@ int main()
     case 7:
         cout << "Неділя";
         break;
+    default:
+        cout << "Неправильний номер дня!";
+        break;
     }
 
         return 0;
