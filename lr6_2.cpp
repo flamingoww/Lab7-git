@@ -7,7 +7,7 @@ int main()
     SetConsoleCP(1251);
     SetConsoleOutputCP(1251);
     int day;
-    cout << "¬вед≥ть номер дн€ тижн€ (1-7): ";
+    cout << "який “иждень: ";
     cin >> day;
     switch (day)
     {
